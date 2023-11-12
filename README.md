@@ -1,4 +1,4 @@
-## Building a Fullstack Blog App with React, NextJS, TailwindCSS & MongoDB
+## Building a server actions App with NextJS, TailwindCSS, MongoDB and prisma
 
 This is a repository for  server actions  by building a task application using React, Prisma, Mongodb, and Typescript server components.
 
